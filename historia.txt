@@ -4,6 +4,6 @@ Ale tiene 32 años, nació en México
 
 pero vive en San Francisco
 
-Hoy hablablaremos de su historia
+Hoy hablablaremos de su vida
 
 Está estudiando Git.
