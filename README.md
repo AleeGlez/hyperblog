@@ -1,2 +1,2 @@
 # hyperblog
-A blog to learn how git & github with Platzi
+A blog to learn git & github with Platzi
