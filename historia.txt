@@ -1,4 +1,4 @@
-Esta es la historia de Ale Glez
+Esta es la historia de Ale 
 
 Ale tiene 32 años, nació en México 
 
@@ -7,3 +7,5 @@ pero vive en San Francisco
 Hoy hablaremos de su vida y obra maestra
 
 Está estudiando Git.
+
+Agregamos la historia de Anita
