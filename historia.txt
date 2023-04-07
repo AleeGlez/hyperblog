@@ -6,6 +6,8 @@ pero vive en San Francisco
 
 Hoy hablaremos de su vida y obra maestra
 
-Está estudiando Git.
+Está estudiando Git
 
 Agregamos la historia de Anita
+
+Anita Platzi es una persona que contribuye a este proyecto open source.
