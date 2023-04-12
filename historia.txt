@@ -9,6 +9,7 @@ Hoy hablaremos de su vida y obra maestra
 Está estudiando Git
 
 Master 1
+Master 2
 
 Agregamos la historia de Anita
 
