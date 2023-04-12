@@ -9,4 +9,4 @@ On my path to becoming a data analyst, I am learning Git and GitHub at Platzi as
 - Best practices
 - Working in Collaborative Teams
 
-[Curso Profesional de Git y GitHub](http://https://platzi.com/cursos/git-github/ "Curso Profesional de Git y GitHub")
+[Platzi](https://platzi.com/cursos/git-github/)
