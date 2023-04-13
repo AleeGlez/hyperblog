@@ -11,5 +11,6 @@ On my path to becoming a data analyst, I am learning Git and GitHub at Platzi as
 
 Creado por el increíble PlatziTeam
 Incluye ejemplos en Windows Linux y Mac
+Disponible para todas las edades 
 
 [Platzi](https://platzi.com/cursos/git-github/)
